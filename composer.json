@@ -9,5 +9,7 @@
             "email": "raphael@raphaellefebvre.be"
         }
     ],
-    "require": {}
+    "require": {
+        "doctrine/orm": "^2.6"
+    }
 }

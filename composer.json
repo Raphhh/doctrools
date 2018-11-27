@@ -1,0 +1,13 @@
+{
+    "name": "raphhh/doctrools",
+    "description": "tools for Doctrine 2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raphaël Lefebvre",
+            "email": "raphael@raphaellefebvre.be"
+        }
+    ],
+    "require": {}
+}
